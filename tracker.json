@@ -226,12 +226,7 @@
 	"tagIdOnDrop" : "302029031409319939",
 	"userIcon": "<:emoji_80:810496924246343691>"
 	 },
-{
-	"name": "Великий Уравнитель",
-	"allyCode": "185829397",
-	"tagIdOnDrop" : "399083633157341188",
-	"userIcon": "<:emoji_80:810496924246343691>"
-	 },
+
 {
 	"name": "Водолаз",
 	"allyCode": "617546235",
@@ -258,18 +253,8 @@
 	"tagIdOnDrop" : "459410321598054414",
 	"userIcon": "<:emoji_80:810496924246343691>"
 	 } ,
-	{
-	"name": "Tesak",
-	"allyCode": "417196445",
-	"tagIdOnDrop" : "415194052598956066",
-	"userIcon": "<:emoji_80:810496924246343691>"
-	 } ,
-	 	{
-	"name": "fullblown",
-	"allyCode": "759857757",
-	"tagIdOnDrop" : "372736000562036736",
-	"userIcon": "<:emoji_80:810496924246343691>"
-	 } ,
+
+
 		 	{
 	"name": "ДАРТ ЛАРГУС",
 	"allyCode": "472422554",
@@ -281,7 +266,39 @@
 	"allyCode": "711481799",
 	"tagIdOnDrop" : "398408041801711618",
 	"userIcon": "<:emoji_80:810496924246343691>"
+	 },
+		 	{
+	"name": "ИСС Shang Tsung",
+	"allyCode": "388318547",
+	"tagIdOnDrop" : "860820518177734666",
+	"userIcon": "<:emoji_80:810496924246343691>"
+	 },
+			 	{
+	"name": "КатяКун",
+	"allyCode": "934733847",
+	"tagIdOnDrop" : "442613207723671552",
+	"userIcon": "<:emoji_80:810496924246343691>"
+	 },
+				 	{
+	"name": "Dard Sergey",
+	"allyCode": "988172942",
+	"tagIdOnDrop" : "860965690252328981",
+	"userIcon": "<:emoji_80:810496924246343691>"
+	 },
+				 	{
+	"name": "SashaLewis",
+	"allyCode": "672186567",
+	"tagIdOnDrop" : "845558320572137473",
+	"userIcon": "<:emoji_80:810496924246343691>"
+	 },
+				 	{
+	"name": "Marl Jewel",
+	"allyCode": "399526991",
+	"tagIdOnDrop" : "827617220368531527",
+	"userIcon": "<:emoji_80:810496924246343691>"
 	 }
+	
+	
 	 
 ]
 
