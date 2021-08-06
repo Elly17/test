@@ -227,12 +227,7 @@
 	 },
 
 
-{
-	"name": "Дичь",
-	"allyCode": "358641945",
-	"tagIdOnDrop" : "459410321598054414",
-	"userIcon": "<:emoji_80:810496924246343691>"
-	 } ,
+
 
 		 	{
 	"name": "įłŷãķøş5",
@@ -260,12 +255,7 @@
 	"userIcon": "<:emoji_80:810496924246343691>"
 	 },
 	
-	{
-	"name": "Brill Counsil ",
-	"allyCode": "129431736",
-	"tagIdOnDrop" : "862638167533551616",
-	"userIcon": "<:emoji_80:810496924246343691>"
-	 },
+	
 	{
 	"name": "Brill Counsil",
 	"allyCode": "129431736",
@@ -278,12 +268,7 @@
 	"tagIdOnDrop" : "673124468771651594",
 	"userIcon": "<:emoji_80:810496924246343691>"
 	 },
-	{
-	"name": "niubab",
-	"allyCode": "961578587",
-	"tagIdOnDrop" : "690140362525900976",
-	"userIcon": "<:emoji_80:810496924246343691>"
-	 },
+
 	{
 	"name": "vA Феникс",
 	"allyCode": "567634389",
@@ -300,6 +285,12 @@
 	"name": "crix",
 	"allyCode": "247739852",
 	"tagIdOnDrop" : "279887531489755136",
+	"userIcon": "<:emoji_80:810496924246343691>"
+	 },
+	{
+	"name": "SinonShot",
+	"allyCode": "174895687",
+	"tagIdOnDrop" : "283998647832543232",
 	"userIcon": "<:emoji_80:810496924246343691>"
 	 }
 	
