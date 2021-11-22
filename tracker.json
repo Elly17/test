@@ -59,12 +59,7 @@
 	"tagIdOnDrop" : "355712286595350538",
 	"userIcon": "<:emoji_80:810496924246343691>"
 	 },
-{
-	"name": "Ivan Drago",
-	"allyCode": "215854639",
-	"tagIdOnDrop" : "865425689650004008",
-	"userIcon": "<:emoji_80:810496924246343691>"
-	 },
+
 
 
 {
@@ -106,12 +101,7 @@
 	"tagIdOnDrop" : "879197421484257360",
 	"userIcon": "<:emoji_80:810496924246343691>"
 	 },
-{
-	"name": "Revanche Gilder",
-	"allyCode": "184416425",
-	"tagIdOnDrop" : "707913456954638346",
-	"userIcon": "<:emoji_80:810496924246343691>"
-	 },
+
 
 {
 	"name": "Roman",
@@ -218,20 +208,10 @@
 	"tagIdOnDrop" : "283998647832543232",
 	"userIcon": "<:emoji_80:810496924246343691>"
 	 },
-	{
-	"name": "Т4егор",
-	"allyCode": "979621874",
-	"tagIdOnDrop" : "453410727781203968",
-	"userIcon": "<:emoji_80:810496924246343691>"
-	 },
+	
 	
 
-	{
-	"name": "Asilidien",
-	"allyCode": "338917696",
-	"tagIdOnDrop" : "275550754679291904",
-	"userIcon": "<:emoji_80:810496924246343691>"
-	 },
+	
 	
 	{
 	"name": "Ledmiks",
@@ -341,6 +321,13 @@
 	"tagIdOnDrop" : "275550754679291904",
 	"userIcon": "<:emoji_80:810496924246343691>"
 	 },
+			{
+	"name": "Князь Ктулху",
+	"allyCode": "186989631",
+	"tagIdOnDrop" : "748824185018777635",
+	"userIcon": "<:emoji_80:810496924246343691>"
+	 },
+	
 
 ]
 
