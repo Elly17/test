@@ -71,12 +71,7 @@
 	"tagIdOnDrop" : "455398524855648276",
 	"userIcon": ""
 	 },
-{
-	"name": "Bublcs",
-	"allyCode": "788612183",
-	"tagIdOnDrop" : "781545617432379432",
-	"userIcon": ""
-	 },
+
 {
 	"name": "Varvar Loner Хатт",
 	"allyCode": "547136175",
@@ -271,12 +266,7 @@
 	"tagIdOnDrop" : "438578127648849945",
 	"userIcon": ""
      }, 
-{
-	"name": "Zendor",
-	"allyCode": "747867892",
-	"tagIdOnDrop" : "781545617432379432",
-	"userIcon": ""
-     }, 
+
 {
 	"name": "иван",
 	"allyCode": "337255517",
@@ -305,6 +295,24 @@
 	"name": "한",
 	"allyCode": "616299571",
 	"tagIdOnDrop" : "1197154223498997773",
+	"userIcon": ""
+     },
+	{
+	"name": "Sputty",
+	"allyCode": "945164427",
+	"tagIdOnDrop" : "363395864598806529",
+	"userIcon": ""
+     }, 
+	{
+	"name": "jammer",
+	"allyCode": "346881186",
+	"tagIdOnDrop" : "461485465166675969",
+	"userIcon": ""
+     }, 
+	{
+	"name": "Dart Pain",
+	"allyCode": "321646172",
+	"tagIdOnDrop" : "598099645540990976",
 	"userIcon": ""
      }
 ]
