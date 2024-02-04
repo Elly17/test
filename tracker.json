@@ -189,9 +189,9 @@
 	"userIcon": ""
 	 },
 {
-	"name": "pensioner",
+	"name": "Din Djarin",
 	"allyCode": "183511292",
-	"tagIdOnDrop" : "898268186544316478",
+	"tagIdOnDrop" : "737738968422154341",
 	"userIcon": ""
 	 },
 {
@@ -231,9 +231,9 @@
 	"userIcon": ""
 	 },
 {
-	"name": "KONSTANTIN1980",
+	"name": "DarthV",
 	"allyCode": "182171779",
-	"tagIdOnDrop" : "737738968422154341",
+	"tagIdOnDrop" : "301726062763704342",
 	"userIcon": ""
 	 },
 {
@@ -273,24 +273,14 @@
 	"tagIdOnDrop" : "1105040685435998218",
 	"userIcon": ""
      },
-{
-	"name": "Lknv",
-	"allyCode": "584438279",
-	"tagIdOnDrop" : "727462917687214192",
-	"userIcon": ""
-     }, 
+
 {
 	"name": "UnnamedPup",
 	"allyCode": "451419956",
 	"tagIdOnDrop" : "644549263652814848",
 	"userIcon": ""
      }, 
-{
-	"name": "Sᖶᘿᖇᘿᓍᕵᕼᓍᘉᓰᑢ",
-	"allyCode": "281376162",
-	"tagIdOnDrop" : "798957086192173067",
-	"userIcon": ""
-     }, 
+
 {
 	"name": "한",
 	"allyCode": "616299571",
@@ -313,6 +303,18 @@
 	"name": "Dart Pain",
 	"allyCode": "321646172",
 	"tagIdOnDrop" : "598099645540990976",
+	"userIcon": ""
+         }, 
+	{
+	"name": "Nikzku",
+	"allyCode": "533462677",
+	"tagIdOnDrop" : "607921582941143041",
+	"userIcon": ""
+          }, 
+	{
+	"name": "Stepa Jopa",
+	"allyCode": "752683394",
+	"tagIdOnDrop" : "465154974679302154",
 	"userIcon": ""
      }
 ]
