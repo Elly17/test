@@ -67,12 +67,7 @@
 	"userIcon": ""
 	 },
 
-{
-	"name": "Varvar Loner Хатт",
-	"allyCode": "547136175",
-	"tagIdOnDrop" : "410061869668237314",
-	"userIcon": ""
-	 },
+
 {
 	"name": "White One",
 	"allyCode": "166429558",
@@ -103,24 +98,9 @@
 	"tagIdOnDrop" : "257944086034644993",
 	"userIcon": ""
 	 },
-{
-	"name": "Ramson",
-	"allyCode": "986939955",
-	"tagIdOnDrop" : "149181422639382528",
-	"userIcon": ""
-	 },
-{
-	"name": "Cor Leonis",
-	"allyCode": "487319182",
-	"tagIdOnDrop" : "725762132070891640",
-	"userIcon": ""
-	 },
-{
-	"name": "Corsair",
-	"allyCode": "742187272",
-	"tagIdOnDrop" : "410724302917337088",
-	"userIcon": ""
-	 },	
+
+
+
 {
 	"name": "d0ktor",
 	"allyCode": "593418773",
@@ -195,18 +175,6 @@
 	"tagIdOnDrop" : "852694050456076319",
 	"userIcon": ""
 	 },
-{
-	"name": "HuttC Kennet Blackheart",
-	"allyCode": "327288544",
-	"tagIdOnDrop" : "471333584263708672",
-	"userIcon": ""
-	 },
-{
-	"name": "HuttC Sеntinеl Moonlight",
-	"allyCode": "151288487",
-	"tagIdOnDrop" : "471333584263708672",
-	"userIcon": ""
-	 },
 
 {
 	"name": "pas",
@@ -244,12 +212,7 @@
 	"tagIdOnDrop" : "648576350176673793",
 	"userIcon": ""
 	 },
-{
-	"name": "VMSpb",
-	"allyCode": "198376345",
-	"tagIdOnDrop" : "410724302917337088",
-	"userIcon": ""
-     }, 
+
 {
 	"name": "W1nReal",
 	"allyCode": "684971943",
@@ -305,6 +268,24 @@
 	"name": "Stepa Jopa",
 	"allyCode": "752683394",
 	"tagIdOnDrop" : "465154974679302154",
+	"userIcon": ""
+     }, 
+{
+	"name": "Sputty",
+	"allyCode": "945164427",
+	"tagIdOnDrop" : "363395864598806529",
+	"userIcon": ""
+     }, 
+{
+	"name": "Predator",
+	"allyCode": "747347567",
+	"tagIdOnDrop" : "771018851919200286",
+	"userIcon": ""
+     }, 
+	{
+	"name": "No name",
+	"allyCode": "661862869",
+	"tagIdOnDrop" : "953716360796585994",
 	"userIcon": ""
      }, 
 	{
