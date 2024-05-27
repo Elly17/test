@@ -125,7 +125,7 @@
 По рекомендованным пачкам для БЗ смотрите в вуки боте, командой ** /tb combat **на канале ⁠⁠**bot-info**
 
 Так же паки можно смотреть на сайте:
-<https://genskaar.github.io/tb_empire/html/main.html>
+<https://genskaar.github.io/tb_empire/html/main.html> 
 
 
 
