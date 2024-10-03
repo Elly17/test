@@ -13,12 +13,7 @@
 	"userIcon": ""
 	 },
 
-{
-	"name": "1 Kataklizm Izabelle",
-	"allyCode": "171585483",
-	"tagIdOnDrop" : "790672475826028575",
-	"userIcon": ""
-	 },
+
 {
 	"name": "Grogu",
 	"allyCode": "613772523",
@@ -37,12 +32,7 @@
 	"tagIdOnDrop" : "615986376306982933",
 	"userIcon": ""
 	 },
-{
-	"name": "Migrans",
-	"allyCode": "625919292",
-	"tagIdOnDrop" : "630751870511480852",
-	"userIcon": ""
-	 },
+
 {
 	"name": "Mozes",
 	"allyCode": "686377594",
@@ -58,30 +48,15 @@
 	 },
 
 
-{
-	"name": "White One",
-	"allyCode": "166429558",
-	"tagIdOnDrop" : "267370588731867138",
-	"userIcon": ""
-	 },
-{
-	"name": "Varash",
-	"allyCode": "577656214",
-	"tagIdOnDrop" : "641909795472801792",
-	"userIcon": ""
-	 },
+
+
 {
 	"name": "Tirion Line",
 	"allyCode": "592711686	",
 	"tagIdOnDrop" : "606734408812331010",
 	"userIcon": ""
 	 },
-{
-	"name": "опохмелятор",
-	"allyCode": "135988496",
-	"tagIdOnDrop" : "694884211617955940",
-	"userIcon": ""
-	 },
+
 {
 	"name": "Royalhell",
 	"allyCode": "542915337",
@@ -174,24 +149,14 @@
 	"tagIdOnDrop" : "737738968422154341",
 	"userIcon": ""
 	 },
-{
-	"name": "DarthV",
-	"allyCode": "182171779",
-	"tagIdOnDrop" : "301726062763704342",
-	"userIcon": ""
-	 },
+
 {
 	"name": "Korvin Dallas",
 	"allyCode": "475235312",
 	"tagIdOnDrop" : "720339293465215067",
 	"userIcon": ""
 	 },
-{
-	"name": "Зодчий",
-	"allyCode": "988166235",
-	"tagIdOnDrop" : "476066992445456384",
-	"userIcon": ""
-	 },
+
 {
 	"name": "Mechanic",
 	"allyCode": "132916214",
@@ -301,22 +266,11 @@
 	"tagIdOnDrop" : "338653481999007747",
 	"userIcon": ""
      },
-	 	 	  	{
-	"name": "Zendor",
-	"allyCode": "747867892",
-	"tagIdOnDrop" : "781545617432379432",
-	"userIcon": ""
-     },
+	 	 	  	
 	 	 	  	{
 	"name": "KendokaYar",
 	"allyCode": "979716998",
 	"tagIdOnDrop" : "789798491358625824",
-	"userIcon": ""
-     },
-	{
-	"name": "DvaUdara",
-	"allyCode": "816478624",
-	"tagIdOnDrop" : "260142881937948682",
 	"userIcon": ""
      }
 	
