@@ -24,16 +24,19 @@ passwd vpnuser
 ```bash
 su vpnuser
 ```
-Меняем порт на ssh, также отключаем логин по руту 
+Меняем порт на ssh, также отключаем логин по руту и логин по паролю 
 PermitRootLogin no
+PasswordAuthentication no
 port 22
 
 ```bash
 nano /etc/ssh/sshd_config
 ```
+перезапускаем службу
+```bash
+systemcte restart sshd
+```
 
-sudo nano 
-PermitRootLogin no
 
 ```bash
 su vpnuser
@@ -46,10 +49,12 @@ ssh-keygen
 ```
 Используем ssh-copy-id для передачи публичного ключа на наш сервер
 Если нужно загружать конкретный ключ используем -i key_file vpnuser@server_ip
-на windows для копирования ключа используем putty 
+на windows публичный ключ копируем вручную сюда echo *Text* >> ~/.ssh/authorized_keys
 ```bash
 ssh-copy-id vpnuser@server_ip 
 ```
+
+Отключаем вход по логину и паролю
 
 
 Устанавливаем пакеты
