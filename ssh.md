@@ -27,4 +27,17 @@ ssh-keygen
 ssh-copy-id vpnuser@server_ip 
 ```
 
-Отключаем вход по логину и паролю
+Отключаем вход по логину и паролю и меняем порт на ssh
+```bash
+nano /etc/ssh/sshd_config
+```
+
+PermitRootLogin no
+PasswordAuthentication no
+port 22 //заменяем
+обратить внимание на подарочки от хостера в  /etc/ssh/sshd_config.d/*.conf
+
+перезапускаем службу
+```bash
+systemcte restart sshd
+```
