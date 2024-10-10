@@ -127,7 +127,9 @@ key /etc/openvpn/certs/server.key #не распространяется и хр
 dh /etc/openvpn/certs/dh2048.pem
  
 # Создание виртуальной сети и ее параметры
- 
+# Network topology
+topology subnet
+
 # IP и маска подсети
 server 10.8.0.0 255.255.255.0
  
@@ -303,7 +305,8 @@ port 1194
  
 # Интерфейс
 dev tun
- 
+
+
 # Протокол OpenVPN, как на сервере
 ;proto tcp
 proto udp
@@ -344,7 +347,7 @@ remote-cert-tls server
 key-direction 1
  
 # Шифрование
-cipher AES-256-CBC
+cipher CHACHA20-POLY1305 #для клиентов нужно указывать такой же, AES-256-GCM, AES-128-GCM, and CHACHA20-POLY1305
  
 # Сжатие. Если на сервере отключено, не включается
 #comp–lzo
