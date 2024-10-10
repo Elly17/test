@@ -12,6 +12,31 @@ sudo apt update
 ```bash
 sudo apt install openvpn easy-rsa net-tools
 ```
+### добавляем пользователя
+```bash
+useradd -G sudo -m vpnuser -s /bin/bash 
+```
+### ставим пасс
+```bash
+passwd vpnuser
+```
+
+### переключаемся на пользователя 
+```bash
+su vpnuser
+```
+
+### Создаем ssh ключ на клиенте с ос windows & linux команды одни
+
+```bash
+ssh-keygen
+```
+### Используем ssh-copy-id для передачи публичного ключа на наш сервер
+### Если нужно загружать конкретный ключ используем -i key_file vpnuser@server_ip
+### на windows для копирования ключа используем putty 
+```bash
+ssh-copy-id vpnuser@server_ip 
+```
 
 ### Настройка удостоверяющего центра
 
