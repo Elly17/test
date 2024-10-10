@@ -1,6 +1,7 @@
 ## Создаем собственный VPN-сервер
 [Источник](https://www.reg.ru/blog/sozdayem-sobstvennyy-vpn-server/)
 
+## 
 ### Установка пакетов
 
 Обновляем пакеты
@@ -149,7 +150,7 @@ remote-cert-tls client
 tls-auth /etc/openvpn/certs/ta.key 0 # файл хранится в секрете
  
 # Криптографические шифры
-cipher AES-256-CBC #для клиентов нужно указывать такой же
+cipher CHACHA20-POLY1305 #для клиентов нужно указывать такой же, AES-256-GCM, AES-128-GCM, and CHACHA20-POLY1305
  
 # Сжатие и отправка настроек клиенту
 ;compress lz4–v2
