@@ -8,34 +8,53 @@
 ```bash
 sudo apt update
 ```
-Устанавливаем пакеты
-```bash
-sudo apt install openvpn easy-rsa net-tools
-```
-### добавляем пользователя
+### Настройка окружения
+
+
+Добавляем пользователя
 ```bash
 useradd -G sudo -m vpnuser -s /bin/bash 
 ```
-### ставим пасс
+Ставим пасс
 ```bash
 passwd vpnuser
 ```
 
-### переключаемся на пользователя 
+Переключаемся на пользователя 
+```bash
+su vpnuser
+```
+Меняем порт на ssh, также отключаем логин по руту 
+PermitRootLogin no
+port 22
+
+```bash
+nano /etc/ssh/sshd_config
+```
+
+sudo nano 
+PermitRootLogin no
+
 ```bash
 su vpnuser
 ```
 
-### Создаем ssh ключ на клиенте с ос windows & linux команды одни
+Создаем ssh ключ на клиенте с ос windows & linux команды одни
 
 ```bash
 ssh-keygen
 ```
-### Используем ssh-copy-id для передачи публичного ключа на наш сервер
-### Если нужно загружать конкретный ключ используем -i key_file vpnuser@server_ip
-### на windows для копирования ключа используем putty 
+Используем ssh-copy-id для передачи публичного ключа на наш сервер
+Если нужно загружать конкретный ключ используем -i key_file vpnuser@server_ip
+на windows для копирования ключа используем putty 
 ```bash
 ssh-copy-id vpnuser@server_ip 
+```
+
+
+Устанавливаем пакеты
+```bash
+sudo apt install openvpn easy-rsa net-tools
 ```
 
 ### Настройка удостоверяющего центра
