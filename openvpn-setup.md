@@ -28,7 +28,7 @@ su vpnuser
 PermitRootLogin no
 PasswordAuthentication no
 port 22
-
+обратить внимание на подарочки от хостера в  /etc/ssh/sshd_config.d/*.conf
 ```bash
 nano /etc/ssh/sshd_config
 ```
