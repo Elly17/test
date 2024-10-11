@@ -1,5 +1,8 @@
 ### Настройка безопасного подключения
-
+Меняем имя хоста
+```bash
+nano /etc/hostname
+```
 Добавляем нового пользователя
 ```bash
 useradd -G sudo -m vpnuser -s /bin/bash 
