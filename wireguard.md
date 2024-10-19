@@ -151,8 +151,8 @@ Your-Peer1-Public-Key – открытый ключ клиента;
 PrivateKey = Your-Peer1-Private-Key
 Address = 10.10.10.2/32
 DNS = 8.8.8.8
-PreUp = ip route add ip_server via gateway
-PostDown = ip route delete ip_server via gateway
+PreUp = ip route add ip_server(cloak) via gateway
+PostDown = ip route delete ip_server(cloak) via gateway
 
 [Peer]
 PublicKey = Your-Server-Public-Key
