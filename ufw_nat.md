@@ -1,4 +1,4 @@
-(Источник)[https://gist.github.com/kimus/9315140]
+[Источник](https://gist.github.com/kimus/9315140)
 # UFW
 
 I use Ubuntu’s Uncomplicated firewall because it is available on Ubuntu and it's very simple.
