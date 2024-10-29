@@ -1,4 +1,8 @@
 [Источник](https://gist.github.com/kimus/9315140)
+
+```
+iptables -t nat -L -v
+```
 # UFW
 
 I use Ubuntu’s Uncomplicated firewall because it is available on Ubuntu and it's very simple.
