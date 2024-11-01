@@ -1,5 +1,9 @@
 [Источник](https://habr.com/ru/articles/758570/)  
 
+Определяем архитектуру:
+```
+cat /sys/devices/system/cpu/modalias | grep -r -E -o ".{0,4}type.{0,6}"
+```
 Настройка сервера Cloak
 Настройка сервера будет производится на примере Debian 11 (amd64)
 
