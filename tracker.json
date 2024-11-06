@@ -26,12 +26,6 @@
 	"tagIdOnDrop" : "782959316109099038",
 	"userIcon": ""
 	 },
-{
-	"name": "Kirito",
-	"allyCode": "312771135",
-	"tagIdOnDrop" : "615986376306982933",
-	"userIcon": ""
-	 },
 
 {
 	"name": "Mozes",
@@ -46,9 +40,6 @@
 	"tagIdOnDrop" : "455398524855648276",
 	"userIcon": ""
 	 },
-
-
-
 
 {
 	"name": "Tirion Line",
@@ -165,7 +156,6 @@
 	 },
 
 
-
 {
 	"name": "иван",
 	"allyCode": "337255517",
@@ -271,6 +261,48 @@
 	"name": "KendokaYar",
 	"allyCode": "979716998",
 	"tagIdOnDrop" : "789798491358625824",
+	"userIcon": ""
+     },
+		  	{
+	"name": "Spaun",
+	"allyCode": "393951869",
+	"tagIdOnDrop" : "440446157186138112",
+	"userIcon": ""
+     },
+	   	{
+	"name": "KAFKA",
+	"allyCode": "961333224",
+	"tagIdOnDrop" : "727830279577927680",
+	"userIcon": ""
+     },
+	   	{
+	"name": "Дарт Намор",
+	"allyCode": "767739797",
+	"tagIdOnDrop" : "978218166054432798",
+	"userIcon": ""
+     },
+	   	{
+	"name": "Ashoka Tano",
+	"allyCode": "321185165",
+	"tagIdOnDrop" : "631497232931225610",
+	"userIcon": ""
+     },
+	   	{
+	"name": "Рэй",
+	"allyCode": "399256258",
+	"tagIdOnDrop" : "537242767131148289",
+	"userIcon": ""
+     },
+	 {
+	"name": "DarthV",
+	"allyCode": "182171779",
+	"tagIdOnDrop" : "301726062763704342",
+	"userIcon": ""
+     },
+	  {
+	"name": "RH DeathSeeker",
+	"allyCode": "845212583",
+	"tagIdOnDrop" : "327520436541980692",
 	"userIcon": ""
      }
 	
