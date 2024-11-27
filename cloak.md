@@ -195,6 +195,7 @@ mkdir /etc/config/cloak
 
 ```bash
 {
+// если добавим "localhost": "0.0.0.0" сможем подключится к клоки из локалки и использовать вг на ноуте например
 "Transport": "direct",
 "ProxyMethod": "openvpn",
 "EncryptionMethod": "aes-gcm",
