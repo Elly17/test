@@ -157,7 +157,7 @@ PostDown = ip route delete ip_server(cloak) via gateway
 [Peer]
 PublicKey = Your-Server-Public-Key
 Endpoint = Your-Server-IP-Address:51820 
-AllowedIPs = 10.10.10.0/24 
+AllowedIPs = 0.0.0.0/0 # если добавить AllowedIPs = 0.0.0.0/1, 128.0.0.0/1, ::/1, 8000::/1 исключим локальные адреса
 PersistentKeepalive = 20
 ```
 Здесь:
