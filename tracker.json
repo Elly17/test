@@ -244,12 +244,7 @@
 	"tagIdOnDrop" : "607505285711659008",
 	"userIcon": ""
      },
-	 	  	{
-	"name": "Pollarity",
-	"allyCode": "583871119",
-	"tagIdOnDrop" : "581575182045413383",
-	"userIcon": ""
-     },
+	 	 
 	 	 	  	{
 	"name": "SergL70",
 	"allyCode": "322786482",
@@ -257,12 +252,7 @@
 	"userIcon": ""
      },
 	 	 	  	
-	 	 	  	{
-	"name": "KendokaYar",
-	"allyCode": "979716998",
-	"tagIdOnDrop" : "789798491358625824",
-	"userIcon": ""
-     },
+	 	 	  	
 		  	{
 	"name": "Spaun",
 	"allyCode": "393951869",
@@ -307,9 +297,9 @@
 	"userIcon": ""
      },
 		  {
-	"name": "White One",
-	"allyCode": "166429558",
-	"tagIdOnDrop" : "267370588731867138",
+	"name": "Карантин",
+	"allyCode": "218269241",
+	"tagIdOnDrop" : "1019272485411246262",
 	"userIcon": ""
      }
 	
