@@ -214,12 +214,7 @@
 	"tagIdOnDrop" : "1085193533838860329",
 	"userIcon": ""
      },
-	{
-	"name": "misterio",
-	"allyCode": "268575972",
-	"tagIdOnDrop" : "799756444072935434",
-	"userIcon": ""
-     },
+
 	 	{
 	"name": "ĤIMÅ",
 	"allyCode": "433366569",
@@ -236,12 +231,6 @@
 	"name": "Анерон",
 	"allyCode": "594452185",
 	"tagIdOnDrop" : "535862606972321793",
-	"userIcon": ""
-     },
-	 	  	{
-	"name": "Yokogawa",
-	"allyCode": "254666367",
-	"tagIdOnDrop" : "607505285711659008",
 	"userIcon": ""
      },
 	 	 
@@ -271,13 +260,7 @@
 	"tagIdOnDrop" : "978218166054432798",
 	"userIcon": ""
      },
-	   	{
-	"name": "Ashoka Tano",
-	"allyCode": "321185165",
-	"tagIdOnDrop" : "631497232931225610",
-	"userIcon": ""
-     },
-	   	{
+	   		   	{
 	"name": "Рэй",
 	"allyCode": "399256258",
 	"tagIdOnDrop" : "537242767131148289",
@@ -294,6 +277,44 @@
 	"name": "AhilesRU",
 	"allyCode": "199497262",
 	"tagIdOnDrop" : "521330093650345984",
+	"userIcon": ""
+     },
+		  {
+	"name": "Ross",
+	"allyCode": "715162196",
+	"tagIdOnDrop" : "000",
+	"userIcon": ""
+     },
+			  {
+	"name": "Ross",
+	"allyCode": "715162196",
+	"tagIdOnDrop" : "000",
+	"userIcon": ""
+     },
+ {
+	"name": "TT Desmond",
+	"allyCode": "799561417",
+	"tagIdOnDrop" : "1154641212310028288",
+	"userIcon": ""
+     },
+	 {
+	"name": "Anatolii",
+	"allyCode": "995132343",
+	"tagIdOnDrop" : "000",
+	"userIcon": ""
+     },
+		 {
+	"name": "Serji",
+	"allyCode": "754199531",
+	"tagIdOnDrop" : "1272164001664471041",
+	"userIcon": ""
+     },
+	
+
+			 {
+	"name": "StranniK",
+	"allyCode": "781577591",
+	"tagIdOnDrop" : "000",
 	"userIcon": ""
      },
 		  {
