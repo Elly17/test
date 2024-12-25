@@ -317,6 +317,12 @@
 	"tagIdOnDrop" : "000",
 	"userIcon": ""
      },
+				 {
+	"name": "Yokogawa",
+	"allyCode": "254666367",
+	"tagIdOnDrop" : "607505285711659008",
+	"userIcon": ""
+     },
 		  {
 	"name": "Карантин",
 	"allyCode": "218269241",
