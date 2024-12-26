@@ -279,16 +279,11 @@
 	"tagIdOnDrop" : "521330093650345984",
 	"userIcon": ""
      },
-		  {
-	"name": "Ross",
-	"allyCode": "715162196",
-	"tagIdOnDrop" : "000",
-	"userIcon": ""
-     },
+
 			  {
 	"name": "Ross",
 	"allyCode": "715162196",
-	"tagIdOnDrop" : "000",
+	"tagIdOnDrop" : "1234567893",
 	"userIcon": ""
      },
  {
@@ -300,7 +295,7 @@
 	 {
 	"name": "Anatolii",
 	"allyCode": "995132343",
-	"tagIdOnDrop" : "000",
+	"tagIdOnDrop" : "1234567892",
 	"userIcon": ""
      },
 		 {
@@ -314,7 +309,7 @@
 			 {
 	"name": "StranniK",
 	"allyCode": "781577591",
-	"tagIdOnDrop" : "000",
+	"tagIdOnDrop" : "1234567891",
 	"userIcon": ""
      },
 				 {
