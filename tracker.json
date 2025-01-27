@@ -330,6 +330,12 @@
 	"tagIdOnDrop" : "1234567895",
 	"userIcon": ""
      },
+							 {
+	"name": "Consigliori",
+	"allyCode": "423215252",
+	"tagIdOnDrop" : "1234567896",
+	"userIcon": ""
+     },
 		  {
 	"name": "Карантин",
 	"allyCode": "218269241",
