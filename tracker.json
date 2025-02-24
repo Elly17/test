@@ -1,347 +1,302 @@
 [
-
-{
-	"name": "Chikarashka",
-	"allyCode": "967778927",
-	"tagIdOnDrop" : "468184975985082368",
-	"userIcon": ""
-	 },
-{
-	"name": "DartFear",
-	"allyCode": "415868173",
-	"tagIdOnDrop" : "665309569160970290",
-	"userIcon": ""
-	 },
-
-
-{
-	"name": "Grogu",
-	"allyCode": "613772523",
-	"tagIdOnDrop" : "355712286595350538",
-	"userIcon": ""
-	 },
-{
-	"name": "iskandar",
-	"allyCode": "732696138",
-	"tagIdOnDrop" : "782959316109099038",
-	"userIcon": ""
-	 },
-
-{
-	"name": "Mozes",
-	"allyCode": "686377594",
-	"tagIdOnDrop" : "818387077048696842",
-	"userIcon": ""
-	 },
-
-{
-	"name": "Bonez",
-	"allyCode": "527195457",
-	"tagIdOnDrop" : "455398524855648276",
-	"userIcon": ""
-	 },
-
-{
-	"name": "Tirion Line",
-	"allyCode": "592711686	",
-	"tagIdOnDrop" : "606734408812331010",
-	"userIcon": ""
-	 },
-
-{
-	"name": "Royalhell",
-	"allyCode": "542915337",
-	"tagIdOnDrop" : "257944086034644993",
-	"userIcon": ""
-	 },
-
-
-
-{
-	"name": "d0ktor",
-	"allyCode": "593418773",
-	"tagIdOnDrop" : "873641399201976402",
-	"userIcon": ""
-	 },
-{
-	"name": "Dart Vaider",
-	"allyCode": "148848346",
-	"tagIdOnDrop" : "540814297660522498",
-	"userIcon": ""
-	 },
-
-{
-	"name": "Vinni",
-	"allyCode": "457149955",
-	"tagIdOnDrop" : "835982516270661643",
-	"userIcon": ""
-	 },
-{
-	"name": "alamut231",
-	"allyCode": "955487349",
-	"tagIdOnDrop" : "578224517357371405",
-	"userIcon": ""
-	 },
-
-{
-	"name": "Azureus",
-	"allyCode": "625454837",
-	"tagIdOnDrop" : "322298424923783178",
-	"userIcon": ""
-	 },
-{
-	"name": "Elmo",
-	"allyCode": "419769434",
-	"tagIdOnDrop" : "910514273598464010",
-	"userIcon": ""
-	 },
-{
-	"name": "Bekster 6910",
-	"allyCode": "863792731",
-	"tagIdOnDrop" : "386296324867227658",
-	"userIcon": ""
-	 },
-
 	{
-	"name": "Shyrob",
-	"allyCode": "148337624",
-	"tagIdOnDrop" : "832987546945716285",
-	"userIcon": ""
-	 },
-{
-	"name": "Furhat",
-	"allyCode": "188231347",
-	"tagIdOnDrop" : "573117982847270922",
-	"userIcon": ""
-	 },
-{
-	"name": "HC MrAntoniy",
-	"allyCode": "392759965",
-	"tagIdOnDrop" : "378638326577496065",
-	"userIcon": ""
-	 },
-{
-	"name": "Din Djarin",
-	"allyCode": "183511292",
-	"tagIdOnDrop" : "737738968422154341",
-	"userIcon": ""
-	 },
-{
-	"name": "Mikolaj",
-	"allyCode": "549628842",
-	"tagIdOnDrop" : "852694050456076319",
-	"userIcon": ""
-	 },
-
-
-{
-	"name": "konst1980",
-	"allyCode": "541597716",
-	"tagIdOnDrop" : "737738968422154341",
-	"userIcon": ""
-	 },
-
-{
-	"name": "Korvin Dallas",
-	"allyCode": "475235312",
-	"tagIdOnDrop" : "720339293465215067",
-	"userIcon": ""
-	 },
-
-{
-	"name": "Mechanic",
-	"allyCode": "132916214",
-	"tagIdOnDrop" : "648576350176673793",
-	"userIcon": ""
-	 },
-
-
-{
-	"name": "ИваН",
-	"allyCode": "337255517",
-	"tagIdOnDrop" : "1105040685435998218",
-	"userIcon": ""
-     },
-
-{
-	"name": "UnnamedPup",
-	"allyCode": "451419956",
-	"tagIdOnDrop" : "644549263652814848",
-	"userIcon": ""
-     }, 
-
-{
-	"name": "한",
-	"allyCode": "616299571",
-	"tagIdOnDrop" : "1197154223498997773",
-	"userIcon": ""
-     },
-
+		"name": "Chikarashka",
+		"allyCode": "967778927",
+		"tagIdOnDrop": "468184975985082368",
+		"userIcon": ""
+	},
 	{
-	"name": "jammer",
-	"allyCode": "346881186",
-	"tagIdOnDrop" : "461485465166675969",
-	"userIcon": ""
-     }, 
-
-
+		"name": "DartFear",
+		"allyCode": "415868173",
+		"tagIdOnDrop": "665309569160970290",
+		"userIcon": ""
+	},
 	{
-	"name": "Stepa Jopa",
-	"allyCode": "752683394",
-	"tagIdOnDrop" : "465154974679302154",
-	"userIcon": ""
-     }, 
-
-
+		"name": "iskandar",
+		"allyCode": "732696138",
+		"tagIdOnDrop": "782959316109099038",
+		"userIcon": ""
+	},
 	{
-	"name": "No name",
-	"allyCode": "661862869",
-	"tagIdOnDrop" : "953716360796585994",
-	"userIcon": ""
-     }, 
-
-		{
-	"name": "Serezka",
-	"allyCode": "141973361",
-	"tagIdOnDrop" : "355777027573415948",
-	"userIcon": ""
-     }, 
-			
-	
+		"name": "Bonez",
+		"allyCode": "527195457",
+		"tagIdOnDrop": "455398524855648276",
+		"userIcon": ""
+	},
 	{
-	"name": "juseda",
-	"allyCode": "695516449",
-	"tagIdOnDrop" : "1085193533838860329",
-	"userIcon": ""
-     },
-
-	 	{
-	"name": "ĤIMÅ",
-	"allyCode": "433366569",
-	"tagIdOnDrop" : "1023501969496739921",
-	"userIcon": ""
-     },
-	  	{
-	"name": "DeathKnight",
-	"allyCode": "278796697",
-	"tagIdOnDrop" : "560359019961778186",
-	"userIcon": ""
-     },
-	  	{
-	"name": "Анерон",
-	"allyCode": "594452185",
-	"tagIdOnDrop" : "535862606972321793",
-	"userIcon": ""
-     },
-	 	 
-	 	 	  	{
-	"name": "SergL70",
-	"allyCode": "322786482",
-	"tagIdOnDrop" : "338653481999007747",
-	"userIcon": ""
-     },
-	 	 	  	
-	 	 	  	
-		  	{
-	"name": "Spaun",
-	"allyCode": "393951869",
-	"tagIdOnDrop" : "440446157186138112",
-	"userIcon": ""
-     },
-	   	{
-	"name": "KAFKA",
-	"allyCode": "961333224",
-	"tagIdOnDrop" : "727830279577927680",
-	"userIcon": ""
-     },
-	   	{
-	"name": "Дарт Намор",
-	"allyCode": "767739797",
-	"tagIdOnDrop" : "978218166054432798",
-	"userIcon": ""
-     },
-	   		   	{
-	"name": "Рэй",
-	"allyCode": "399256258",
-	"tagIdOnDrop" : "537242767131148289",
-	"userIcon": ""
-     },
-	 {
-	"name": "DarthV",
-	"allyCode": "182171779",
-	"tagIdOnDrop" : "301726062763704342",
-	"userIcon": ""
-     },
-	
-		  {
-	"name": "AhilesRU",
-	"allyCode": "199497262",
-	"tagIdOnDrop" : "521330093650345984",
-	"userIcon": ""
-     },
-
-			  {
-	"name": "Ross",
-	"allyCode": "715162196",
-	"tagIdOnDrop" : "1234567893",
-	"userIcon": ""
-     },
- {
-	"name": "TT Desmond",
-	"allyCode": "799561417",
-	"tagIdOnDrop" : "1154641212310028288",
-	"userIcon": ""
-     },
-	 {
-	"name": "Anatolii",
-	"allyCode": "995132343",
-	"tagIdOnDrop" : "1234567892",
-	"userIcon": ""
-     },
-		 {
-	"name": "Serji",
-	"allyCode": "754199531",
-	"tagIdOnDrop" : "1272164001664471041",
-	"userIcon": ""
-     },
-	
-
-			 {
-	"name": "StranniK",
-	"allyCode": "781577591",
-	"tagIdOnDrop" : "1234567891",
-	"userIcon": ""
-     },
-				 {
-	"name": "Yokogawa",
-	"allyCode": "254666367",
-	"tagIdOnDrop" : "607505285711659008",
-	"userIcon": ""
-     },
-					 {
-	"name": "DominoQT",
-	"allyCode": "821118692",
-	"tagIdOnDrop" : "1234567894",
-	"userIcon": ""
-     },
-						 {
-	"name": "dr1Denchik",
-	"allyCode": "978438317",
-	"tagIdOnDrop" : "1234567895",
-	"userIcon": ""
-     },
-							 {
-	"name": "Consigliori",
-	"allyCode": "423215252",
-	"tagIdOnDrop" : "1234567896",
-	"userIcon": ""
-     },
-		  {
-	"name": "Карантин",
-	"allyCode": "218269241",
-	"tagIdOnDrop" : "1019272485411246262",
-	"userIcon": ""
-     }
-	
-	
+		"name": "Royalhell",
+		"allyCode": "542915337",
+		"tagIdOnDrop": "257944086034644993",
+		"userIcon": ""
+	},
+	{
+		"name": "d0ktor",
+		"allyCode": "593418773",
+		"tagIdOnDrop": "873641399201976402",
+		"userIcon": ""
+	},
+	{
+		"name": "Vinni",
+		"allyCode": "457149955",
+		"tagIdOnDrop": "835982516270661643",
+		"userIcon": ""
+	},
+	{
+		"name": "Azureus",
+		"allyCode": "625454837",
+		"tagIdOnDrop": "322298424923783178",
+		"userIcon": ""
+	},
+	{
+		"name": "Elmo",
+		"allyCode": "419769434",
+		"tagIdOnDrop": "910514273598464010",
+		"userIcon": ""
+	},
+	{
+		"name": "Bekster 6910",
+		"allyCode": "863792731",
+		"tagIdOnDrop": "386296324867227658",
+		"userIcon": ""
+	},
+	{
+		"name": "Shyrob",
+		"allyCode": "148337624",
+		"tagIdOnDrop": "832987546945716285",
+		"userIcon": ""
+	},
+	{
+		"name": "Furhat",
+		"allyCode": "188231347",
+		"tagIdOnDrop": "573117982847270922",
+		"userIcon": ""
+	},
+	{
+		"name": "HC MrAntoniy",
+		"allyCode": "392759965",
+		"tagIdOnDrop": "378638326577496065",
+		"userIcon": ""
+	},
+	{
+		"name": "Din Djarin",
+		"allyCode": "183511292",
+		"tagIdOnDrop": "737738968422154341",
+		"userIcon": ""
+	},
+	{
+		"name": "Mikolaj",
+		"allyCode": "549628842",
+		"tagIdOnDrop": "852694050456076319",
+		"userIcon": ""
+	},
+	{
+		"name": "konst1980",
+		"allyCode": "541597716",
+		"tagIdOnDrop": "737738968422154341",
+		"userIcon": ""
+	},
+	{
+		"name": "Korvin Dallas",
+		"allyCode": "475235312",
+		"tagIdOnDrop": "720339293465215067",
+		"userIcon": ""
+	},
+	{
+		"name": "Mechanic",
+		"allyCode": "132916214",
+		"tagIdOnDrop": "648576350176673793",
+		"userIcon": ""
+	},
+	{
+		"name": "ИваН",
+		"allyCode": "337255517",
+		"tagIdOnDrop": "1105040685435998218",
+		"userIcon": ""
+	},
+	{
+		"name": "UnnamedPup",
+		"allyCode": "451419956",
+		"tagIdOnDrop": "644549263652814848",
+		"userIcon": ""
+	},
+	{
+		"name": "한",
+		"allyCode": "616299571",
+		"tagIdOnDrop": "1197154223498997773",
+		"userIcon": ""
+	},
+	{
+		"name": "jammer",
+		"allyCode": "346881186",
+		"tagIdOnDrop": "461485465166675969",
+		"userIcon": ""
+	},
+	{
+		"name": "Stepa Jopa",
+		"allyCode": "752683394",
+		"tagIdOnDrop": "465154974679302154",
+		"userIcon": ""
+	},
+	{
+		"name": "No name",
+		"allyCode": "661862869",
+		"tagIdOnDrop": "953716360796585994",
+		"userIcon": ""
+	},
+	{
+		"name": "Serezka",
+		"allyCode": "141973361",
+		"tagIdOnDrop": "355777027573415948",
+		"userIcon": ""
+	},
+	{
+		"name": "juseda",
+		"allyCode": "695516449",
+		"tagIdOnDrop": "1085193533838860329",
+		"userIcon": ""
+	},
+	{
+		"name": "ĤIMÅ",
+		"allyCode": "433366569",
+		"tagIdOnDrop": "1023501969496739921",
+		"userIcon": ""
+	},
+	{
+		"name": "Анерон",
+		"allyCode": "594452185",
+		"tagIdOnDrop": "535862606972321793",
+		"userIcon": ""
+	},
+	{
+		"name": "SergL70",
+		"allyCode": "322786482",
+		"tagIdOnDrop": "338653481999007747",
+		"userIcon": ""
+	},
+	{
+		"name": "Spaun",
+		"allyCode": "393951869",
+		"tagIdOnDrop": "440446157186138112",
+		"userIcon": ""
+	},
+	{
+		"name": "KAFKA",
+		"allyCode": "961333224",
+		"tagIdOnDrop": "727830279577927680",
+		"userIcon": ""
+	},
+	{
+		"name": "Дарт Намор",
+		"allyCode": "767739797",
+		"tagIdOnDrop": "978218166054432798",
+		"userIcon": ""
+	},
+	{
+		"name": "Рэй",
+		"allyCode": "399256258",
+		"tagIdOnDrop": "537242767131148289",
+		"userIcon": ""
+	},
+	{
+		"name": "DarthV",
+		"allyCode": "182171779",
+		"tagIdOnDrop": "301726062763704342",
+		"userIcon": ""
+	},
+	{
+		"name": "AhilesRU",
+		"allyCode": "199497262",
+		"tagIdOnDrop": "521330093650345984",
+		"userIcon": ""
+	},
+	{
+		"name": "TT Desmond",
+		"allyCode": "799561417",
+		"tagIdOnDrop": "1154641212310028288",
+		"userIcon": ""
+	},
+	{
+		"name": "Serji",
+		"allyCode": "754199531",
+		"tagIdOnDrop": "1272164001664471041",
+		"userIcon": ""
+	},
+	{
+		"name": "StranniK",
+		"allyCode": "781577591",
+		"tagIdOnDrop": "1234567891",
+		"userIcon": ""
+	},
+	{
+		"name": "Yokogawa",
+		"allyCode": "254666367",
+		"tagIdOnDrop": "607505285711659008",
+		"userIcon": ""
+	},
+	{
+		"name": "DominoQT",
+		"allyCode": "821118692",
+		"tagIdOnDrop": "1234567894",
+		"userIcon": ""
+	},
+	{
+		"name": "Advocate",
+		"allyCode": "671559627",
+		"tagIdOnDrop": "1234567897",
+		"userIcon": ""
+	},
+	{
+		"name": "Dart FeeT",
+		"allyCode": "416973588",
+		"tagIdOnDrop": "1234567898",
+		"userIcon": ""
+	},
+	{
+		"name": "Dzuiho",
+		"allyCode": "254428469",
+		"tagIdOnDrop": "1234567899",
+		"userIcon": ""
+	},
+	{
+		"name": "ENERGETNK",
+		"allyCode": "297797632",
+		"tagIdOnDrop": "12345678910",
+		"userIcon": ""
+	},
+	{
+		"name": "Hrust77",
+		"allyCode": "835828718",
+		"tagIdOnDrop": "12345678911",
+		"userIcon": ""
+	},
+	{
+		"name": "serg khots",
+		"allyCode": "813811518",
+		"tagIdOnDrop": "12345678912",
+		"userIcon": ""
+	},
+	{
+		"name": "zubso",
+		"allyCode": "867968549",
+		"tagIdOnDrop": "12345678913",
+		"userIcon": ""
+	},
+	{
+		"name": "Каил Катарн",
+		"allyCode": "473541549",
+		"tagIdOnDrop": "12345678914",
+		"userIcon": ""
+	},
+	{
+		"name": "Скиф 30",
+		"allyCode": "334515353",
+		"tagIdOnDrop": "12345678915",
+		"userIcon": ""
+	},
+	{
+		"name": "Consigliori",
+		"allyCode": "423215252",
+		"tagIdOnDrop": "1234567896",
+		"userIcon": ""
+	}
 ]
