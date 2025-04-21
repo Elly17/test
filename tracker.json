@@ -30,12 +30,7 @@
 		"tagIdOnDrop": "873641399201976402",
 		"userIcon": ""
 	},
-	{
-		"name": "Vinni",
-		"allyCode": "457149955",
-		"tagIdOnDrop": "835982516270661643",
-		"userIcon": ""
-	},
+
 	{
 		"name": "Azureus",
 		"allyCode": "625454837",
@@ -276,6 +271,24 @@
 		"name": "Rudick",
 		"allyCode": "863767275",
 		"tagIdOnDrop": "1234567896",
+		"userIcon": ""
+	},
+		{
+		"name": "Ross",
+		"allyCode": "715162196",
+		"tagIdOnDrop": "12345678916",
+		"userIcon": ""
+	},
+		{
+		"name": "KOTOR3",
+		"allyCode": "954961826",
+		"tagIdOnDrop": "12345678917",
+		"userIcon": ""
+	},
+			{
+		"name": "Dart Sirius",
+		"allyCode": "531535118",
+		"tagIdOnDrop": "12345678918",
 		"userIcon": ""
 	}
 ]
