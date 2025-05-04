@@ -5,6 +5,13 @@
 		"tagIdOnDrop": "468184975985082368",
 		"userIcon": ""
 	},
+	
+		{
+		"name": "Gazna",
+		"allyCode": "958321767",
+		"tagIdOnDrop": "12345678922",
+		"userIcon": ""
+	},
 	{
 		"name": "DartFear",
 		"allyCode": "415868173",
@@ -292,4 +299,6 @@
 		"tagIdOnDrop": "12345678918",
 		"userIcon": ""
 	}
+
+
 ]
