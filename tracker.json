@@ -5,13 +5,7 @@
 		"tagIdOnDrop": "468184975985082368",
 		"userIcon": ""
 	},
-	
-		{
-		"name": "Gazna",
-		"allyCode": "958321767",
-		"tagIdOnDrop": "12345678922",
-		"userIcon": ""
-	},
+
 	{
 		"name": "DartFear",
 		"allyCode": "415868173",
@@ -146,12 +140,6 @@
 		"name": "Анерон",
 		"allyCode": "594452185",
 		"tagIdOnDrop": "535862606972321793",
-		"userIcon": ""
-	},
-	{
-		"name": "SergL70",
-		"allyCode": "322786482",
-		"tagIdOnDrop": "338653481999007747",
 		"userIcon": ""
 	},
 	{
@@ -310,7 +298,14 @@
 		"allyCode": "668179745",
 		"tagIdOnDrop": "12345678923",
 		"userIcon": ""
+	},
+				{
+		"name": "HuGODnick",
+		"allyCode": "559445376",
+		"tagIdOnDrop": "12345678924",
+		"userIcon": ""
 	}
+	
 
 
 ]
