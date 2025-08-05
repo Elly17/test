@@ -204,12 +204,6 @@
 		"userIcon": ""
 	},
 	{
-		"name": "Dzuiho",
-		"allyCode": "254428469",
-		"tagIdOnDrop": "1234567899",
-		"userIcon": ""
-	},
-	{
 		"name": "ENERGETNK",
 		"allyCode": "297797632",
 		"tagIdOnDrop": "12345678910",
@@ -276,12 +270,6 @@
 		"tagIdOnDrop": "12345678918",
 		"userIcon": ""
 	},
-		{
-		"name": "MINI assacsz",
-		"allyCode": "525617699",
-		"tagIdOnDrop": "12345678921",
-		"userIcon": ""
-	},
 			{
 		"name": "IW",
 		"allyCode": "668179745",
@@ -316,4 +304,5 @@
 
 
 ]
+
 
