@@ -1,0 +1,39 @@
+Команды UFW
+Управление UFW
+ufw status             # посмотреть статус (включён/выключен, правила)
+ufw enable             # включить UFW
+ufw disable            # выключить UFW
+ufw reload             # перезагрузить правила
+ufw reset              # сбросить все правила
+
+Разрешение трафика
+ufw allow 22/tcp                 # разрешить SSH
+ufw allow 80/tcp                 # разрешить HTTP
+ufw allow 443/tcp                # разрешить HTTPS
+ufw allow 1194/udp               # пример: разрешить OpenVPN
+ufw allow from 192.168.1.100     # разрешить доступ с конкретного IP
+ufw allow from 192.168.1.0/24    # разрешить доступ из подсети
+ufw allow proto tcp from any to any port 25   # разрешить SMTP только TCP
+
+Блокировка трафика
+ufw deny 23/tcp                  # запретить Telnet
+ufw deny from 203.0.113.45       # заблокировать конкретный IP
+ufw deny from 203.0.113.0/24     # заблокировать подсеть
+
+Удаление правил
+ufw delete allow 22/tcp          # удалить разрешение SSH
+ufw delete deny from 203.0.113.45
+
+Логирование
+ufw logging on                   # включить логирование
+ufw logging off                  # выключить логирование
+ufw logging high                 # уровень логирования (low, medium, high, full)
+
+Пример: базовая настройка сервера
+ufw default deny incoming        # по умолчанию — всё входящее запрещено
+ufw default allow outgoing       # всё исходящее разрешено
+ufw allow 22/tcp                 # разрешить SSH
+ufw allow 80,443/tcp             # разрешить HTTP и HTTPS
+ufw enable
+
+
