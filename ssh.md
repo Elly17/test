@@ -3,6 +3,10 @@
 ```bash
 nano /etc/hostname
 ```
+и тут
+```
+/etc/hosts
+```
 Добавляем нового пользователя
 ```bash
 useradd -G sudo -m vpnuser -s /bin/bash 
